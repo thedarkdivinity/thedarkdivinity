@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://www.sayushkamat.com](https://www.sayushkamat.com)
+- 👨‍💻 All of my projects are available at [https://sayush-kamat.netlify.app](https://www.sayush-kamat.netlify.app)
 
 - 💬 Ask me about **CSS3,React Hooks**
 
